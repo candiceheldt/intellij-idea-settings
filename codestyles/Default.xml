@@ -11,7 +11,6 @@
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
-    <option name="IF_BRACE_FORCE" value="1" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
