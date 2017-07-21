@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="groovyx" type="Groovy" />
-      <mapping ext="tea" type="JAVA" />
     </extensionMap>
   </component>
 </application>
