@@ -29,17 +29,13 @@
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
-    <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
     <option name="PARENTHESES_EXPRESSION_RPAREN_WRAP" value="true" />
-    <option name="BINARY_OPERATION_WRAP" value="5" />
-    <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="2" />
