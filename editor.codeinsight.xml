@@ -12,6 +12,7 @@
     <option name="collapseI18nMessages" value="false" />
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
