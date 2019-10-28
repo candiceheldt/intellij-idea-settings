@@ -1,7 +1,9 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="15" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
