@@ -1,7 +1,11 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <GroovyCodeStyleSettings>
     <option name="USE_FLYING_GEESE_BRACES" value="true" />
+    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
   </GroovyCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
