@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Notepad++" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Notepad++\notepad++.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Generate APIDOC" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/c apidoc -i grails-app/controllers/com/espn/footytips/api -o apidocs/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="View APIDOC" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/c start chrome &quot;apidocs/index.html&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
