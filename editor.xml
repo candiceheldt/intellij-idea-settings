@@ -25,10 +25,6 @@
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />
