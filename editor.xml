@@ -10,6 +10,10 @@
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_SCALE" value="0.9166667" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
@@ -20,10 +24,6 @@
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
