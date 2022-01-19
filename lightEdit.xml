@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Downloads/SSMS-Setup-ENU.exe" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="870" y="300" width="2100" height="1500" />
+    </option>
+  </component>
+</application>
